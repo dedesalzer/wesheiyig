@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fubeenieh.prachar.eu/sitemap.xml
